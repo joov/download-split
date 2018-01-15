@@ -1,0 +1,8 @@
+---
+url: https://wdradaptiv-vh.akamaihd.net/i/medp/ondemand/weltweit/fsk0/144/1444470/,1444470_16593674,1444470_16593670,1444470_16593671,1444470_16593673,1444470_16593669,1444470_16593672,.mp4.csmil/segment{0}_1_av.ts?null=0
+output: planet-wissen-gesamt.ts
+placeholders:
+  - type: 
+      - range
+    start: 1
+    end: 600

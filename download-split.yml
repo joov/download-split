@@ -1,0 +1,8 @@
+---
+url: https://dasersteuni-vh.akamaihd.net/i/int/2017/01/04/b52e84d7-e365-4a8a-9188-b530a819e06f/,480-1,960-1,320-1,512-1,640-1,.mp4.csmil/segment{0}_1_av.ts?null=0
+output: tatort-koeln.ts
+placeholders:
+  - type: 
+      - range
+    start: 1
+    end: 900
