@@ -1,7 +1,14 @@
-url: https://myprogram-vh.akamaihd.net/i/int/2018/01/04/some-strange-key-some-other-strange-key/,480-1,960-1,320-1,512-1,640-1,.mp4.csmil/segment{0}_1_av.ts?null=0
-output: mymovie.ts
+#url: https://myprogram-vh.akamaihd.net/i/int/2018/01/04/some-strange-key-some-other-strange-key/,480-1,960-1,320-1,512-1,640-1,.mp4.csmil/segment{0}_1_av.ts?null=0
+#url: https://dasersteuni-vh.akamaihd.net/i/int/2018/04/08/a20dcf35-9341-41ec-9f31-4a3060aa8737/,512-1,640-1,480-1,320-1,960-1,.mp4.csmil/segment{0}_1_av.ts?null=0
+#url: https://dasersteuni-vh.akamaihd.net/i/int/2018/04/25/93f837f0-8dcb-4ec2-a2ea-a40712b7d522/,640-1,480-1,320-1,960-1,512-1,.mp4.csmil/segment{0}_1_av.ts?null=0
+#url: https://dasersteuni-vh.akamaihd.net/i/int/2018/05/23/666e6569-e92b-4414-8b8a-a3596d3d6551/,512-1,480-1,640-1,960-1,320-1,.mp4.csmil/segment{0}_1_av.ts?null=0
+#url: https://arteptweb-vh.akamaihd.net/i/am/ptweb/048000/048200/048253-000-A_0_VOA-STA_AMM-PTWEB_XQ.1CjS7zBOpA.smil/segment{0}_1_av.ts
+url: https://wdradaptiv-vh.akamaihd.net/i/medp/ondemand/weltweit/fsk0/229/2297425/,2297425_30191902,2297425_30191898,2297425_30191899,2297425_30191901,.mp4.csmil/segment{0}_1_av.ts?null=0
+#output: tatort_muenster_schlangengrube.ts
+#output: 300_worte.ts
+output: lokalzeit_20201113.ts
 placeholders:
   - type: 
       - range
     start: 1
-    end: 900
+    end: 600

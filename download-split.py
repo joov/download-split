@@ -16,7 +16,7 @@ if (args.file):
 else:
    stream = open('download-split.yml','r')
 
-all = yaml.load_all(stream)
+all = yaml.load_all(stream, Loader=yaml.FullLoader)
 data = next(all)
 
 url_pattern = data['url']
